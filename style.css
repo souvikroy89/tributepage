@@ -1,0 +1,27 @@
+.img30{
+    width: 100vw;
+    height: 40vh;
+}
+
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.set{
+    width: 100vw;
+    text-align: center;
+}
+
+.cset{
+    text-align: center;
+    width: 50vw;
+    margin-top: 2vw;
+    margin-left: 25vw;
+}
